@@ -1,14 +1,2 @@
-"County","Deaths","Cases"
-"Bomi","","9"
-"Bong","4","34"
-"Gbarpolu","2","10"
-"Grand Bassa","0","10"
-"Grand Cape Mount","0","1"
-"Grand Kru","0","1"
-"Lofa","4","22"
-"Margibi","1","55"
-"Maryland","1","12"
-"Montserrado","23","710"
-"Nimba","5","43"
-"River Gee","0","11"
-"Sinoe","1","5"
+)]}'
+{"version":"0.6","status":"error","errors":[{"reason":"internal_error","message":"INTERNAL_ERROR","detailed_message":"Cannot load spreadsheet."}]}
